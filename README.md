@@ -14,8 +14,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -30,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/lahn0528/four-card-feature-section](https://github.com/lahn0528/four-card-feature-section)
+- Live Site URL: [https://lahn0528.github.io/four-card-feature-section/](https://lahn0528.github.io/four-card-feature-section/)
 
 ## My process
 
